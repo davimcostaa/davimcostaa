@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Davi Costa
 ### Seja bem-vindo!
 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Graduado em Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
 
 
