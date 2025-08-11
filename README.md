@@ -9,6 +9,7 @@
 <div align="center">
   <a href="https://github.com/davimcostaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimcostaa&layout=compact&langs_count=7&theme=tokyonight"/>
+    <br />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=davimcostaa&theme=tokyonight&hide_border=false"/>
 </div>
 <div style="display: inline_block"><br>
